@@ -1,43 +1,43 @@
 {
-  "clientes": [
+  "clients": [
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
+      "name": "Jose Miguel",
+      "company": "JA Asoc",
       "email": "leonelpolanco2913@gmail.com",
-      "telefono": "3122215315",
-      "notas": "Construcciones ",
+      "phone": "3122215315",
+      "notes": "Notes..",
       "id": 1
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
-      "email": "leonelpolanco2913@gmail.com",
-      "telefono": "3122215315",
-      "notas": "Construcciones ",
+      "name": "Diana Cristina",
+      "company": "Meta",
+      "email": "diana913@gmail.com",
+      "phone": "3122215315",
+      "notes": "Notes...",
       "id": 2
     },
     {
-      "nombre": "Leonel",
-      "empresa": "LeoINC",
+      "name": "Leonel",
+      "company": "Amazon",
       "email": "leoenl@leo.com",
-      "telefono": "3122222222",
-      "notas": "sitfware",
+      "phone": "3122222222",
+      "notes": "Notes....",
       "id": 3
     },
     {
-      "nombre": "Camilo",
-      "empresa": "CAMKING",
-      "email": "correo@correo.com",
-      "telefono": "3254111",
-      "notas": "Nada de nada",
+      "name": "Camilo",
+      "company": "AWS",
+      "email": "email3@email3.com",
+      "phone": "3254111",
+      "notes": "More Notes....",
       "id": 4
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "LeoINCccc",
-      "email": "correo@correo.com",
-      "telefono": "3010101",
-      "notas": "",
+      "name": "Maria",
+      "company": "TECH",
+      "email": "email@email.com",
+      "phone": "3010101",
+      "notes": "More more notes...",
       "id": 5
     }
   ]
